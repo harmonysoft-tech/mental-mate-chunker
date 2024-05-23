@@ -1,0 +1,12 @@
+name: Java CI with Gradle
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    uses: harmonysoft-tech/ci/.github/workflows/application-gradle-release-docker-hub.yml@main
+    secrets: inherit
+    permissions:
+      contents: write
