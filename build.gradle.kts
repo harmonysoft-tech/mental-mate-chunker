@@ -1,6 +1,6 @@
 extra["projectType"] =  "application"
 
-version = "1.5.0"
+version = "1.6.0"
 
 val harmonysoftLibsVersion by extra { "3.5.0" }
 val mentalMateLibrariesVersion by extra { "2.7.0" }

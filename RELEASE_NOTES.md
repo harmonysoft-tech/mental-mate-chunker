@@ -1,3 +1,5 @@
+## v1.6.0 released on 24 May 2024 UTC
+  * 70b83fa4e37c40367c1831fcb73086852c3e8d16 setting up CI
 ## v1.5.0 released on 24 May 2024 UTC
   * ab0e584c982a37cc22035fa9993632d3a1e794d7 setting up CI
 ## v1.4.0 released on 24 May 2024 UTC
