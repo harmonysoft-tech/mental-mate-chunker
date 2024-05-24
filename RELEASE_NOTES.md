@@ -1,3 +1,5 @@
+## v1.2.0 released on 24 May 2024 UTC
+  * 35eadb0da8f3026aaf87a8ac1f7bbbb57c62cb49 setting up CI
 ## v1.1.0 released on 23 May 2024 UTC
   * f37eac0761251f26accbb029a6083c1682639c6e setting up CI
 ## v1.0.0 released on 23 May 2024 UTC
