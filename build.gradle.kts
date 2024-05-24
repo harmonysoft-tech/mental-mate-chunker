@@ -1,4 +1,4 @@
-extra["projectType"] =  "application"
+extra["projectType"] = "application"
 
 version = "1.4.0"
 
