@@ -1,8 +1,8 @@
-extra["projectType"] =  "application"
+extra["projectType"] = "application"
 
 version = "1.1.0"
 
-val harmonysoftLibsVersion by extra { "3.3.0" }
+val harmonysoftLibsVersion by extra { "3.4.0" }
 val mentalMateLibrariesVersion by extra { "2.7.0" }
 
 dependencies {
@@ -24,4 +24,5 @@ dependencies {
     testImplementation("tech.harmonysoft:mental-mate-llm-test:$mentalMateLibrariesVersion")
 
     testImplementation("tech.harmonysoft:harmonysoft-http-client-apache-cucumber-spring:$harmonysoftLibsVersion")
+    testImplementation("tech.harmonysoft:harmonysoft-test-environment:$harmonysoftLibsVersion")
 }
